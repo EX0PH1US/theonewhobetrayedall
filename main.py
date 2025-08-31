@@ -14,8 +14,6 @@ def index():
         if (hahsedvalue == PASSHASH):
             print('Wokring')
             return send_from_directory('static', 'theonewithdante.zip', as_attachment=True)
-        else:
-            print("Wrong PWD")
     return render_template('index.html')
 
 if __name__ == '__main__':
