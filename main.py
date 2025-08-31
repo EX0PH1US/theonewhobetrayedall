@@ -22,4 +22,5 @@ def index():
 def seven():
     return render_template('0011011100001111.html')
 
-app.run(debug=True)
+if __name__ == '__main__':
+    app.run()
