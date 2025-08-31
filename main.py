@@ -18,9 +18,5 @@ def index():
             print("Wrong PWD")
     return render_template('index.html')
 
-@app.route('/0011011100001111')
-def seven():
-    return render_template('0011011100001111.html')
-
 if __name__ == '__main__':
     app.run()
