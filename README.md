@@ -44,17 +44,16 @@ After you enter the answer into the form, you will get a .zip file named [theone
 
 <i>Dante cannot descend without Virgil. You cannot progress without him either.</i>
 
-You will now get two files. A PDF named <u>dante.pdf</u> and a JPG named <u>TheOneInTheMouthOfTheLightBringer.jpg</u>
+You will now get two files. A PDF named <b>dante.pdf</b> and a JPG named <b>TheOneInTheMouthOfTheLightBringer.jpg</b>
 
 The PDF has the answer, and the image is a very famous illustration made by <b>Gustave Doré from his illustrations of Dante's Divine Comedy</b>
-
 <img width="2020" height="1588" alt="image" src="https://github.com/user-attachments/assets/3f60faf7-f839-464d-b2f2-7dc2d95d301f" />
 
 This is an image showing Judas in the mouth of Lucifer (The Light Bringer) in the innermost Pit of the ninth circle of hell, <b>Judecca</b>
 
 This image is hiding a .wav file in it (hinted in decoded text "Some problems have the answer hidden inside them"). the passphrase for extraction is <b>judas</b>
 
-Now you will get a .wav file named <u>notriangleisthepassphrase</u>. No triangle actually means the number of Triangles. The .wav file contains Morse code, which, when decoded, gives you the coordinates of a specific place in the Nevada Desert. 
+Now you will get a .wav file named <b>notriangleisthepassphrase</b>. No triangle actually means the number of Triangles. The .wav file contains Morse code, which, when decoded, gives you the coordinates of a specific place in the Nevada Desert. 
 
 37°24'05.2"N 116°52'04.6"W -> this is in the form of 37,24,05.2 NORTH 116,52,04.6 WEST
 
