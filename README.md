@@ -35,7 +35,7 @@ You will be greeted to a page which has a form input that requires a passphrase.
 Now, if you go back to the image and look at its size, you will see that the width is 111 and the  height is 11. This is binary. 
 If you look at the decoded file, I have hinted "add x00". 
 
-To get the answer, you will have to add x00 at the start and then one in the middle to make it an 8-bit binary. 00110111 -> this decodes to <b>seven</b,> which is the answer to the form. 
+To get the answer, you will have to add x00 at the start and then one in the middle to make it an 8-bit binary. 00110111 -> this decodes to <b>seven</b> which is the answer to the form. 
 You will have to convert it into ASCII and not hexadecimal, which corresponds to 37 or the decimal number 55, but the answer is in ASCII. 
 
 </i>7 refrences the seven sins</i>
