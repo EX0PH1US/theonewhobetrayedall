@@ -3,7 +3,7 @@
 This is a puzzle made to test someone's skills in decoding and steganography.
 To test how someone uses a given information and how far they can enumerate something to get the answer.
 
-If you want to try it, download the 561.png and start doing it. Everything below this is me explaining how to solve it. So, maybe try doing it first yourself, and if you are stuck, you can always see the solution below.
+If you want to try it, download the [561.png](./561.png) and start doing it. Everything below this is me explaining how to solve it. So, maybe try doing it first yourself, and if you are stuck, you can always see the solution below.
 
 The answer to the puzzle is 'judas is placed headfirst inside lucifers
 central mouth, with his back skinned by the devils claws streaker'
