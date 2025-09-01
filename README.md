@@ -18,10 +18,12 @@ The Flask app is deployed using Render
 
 The puzzle has direct references from the book Dante's Inferno.
 used:
-steganography
-morse code
-ROT13
-Flask
+<ul>
+<li>steganography</li>
+<li>morse code</li>
+<li>ROT13</li>
+<li>Flask</li>
+</ul>
 
 If you don't know how to decode that image, heres a hint or you. The image is "8-bit Grayscale". 
 If you still can't do it or  find a website to do it, you can use [decode.py](./decode.py) to decode the text. 
