@@ -36,7 +36,7 @@ Now, if you go back to the image and look at its size, you will see that the wid
 If you look at the decoded file, I have hinted "add x00". 
 
 To get the answer, you will have to add 00 at the start and then one in the middle to make it an 8-bit binary. 00110111 -> this decodes to <b>seven</b> which is the answer to the form. 
-You will have to convert it into ASCII and not hexadecimal, which corresponds to 37 or the decimal number 55, but the answer is in ASCII. 
+You will have to convert it into ASCII and not hexadecimal, which corresponds to 37 or the decimal number 55.
 
 </i>7 refrences the seven sins</i>
 
