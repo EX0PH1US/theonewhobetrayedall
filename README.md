@@ -40,20 +40,20 @@ You will have to convert it into ASCII and not hexadecimal, which corresponds to
 
 <i>7 refrences the seven sins.</i>
 
-After you enter the answer into the form, you will get a .zip file named <b>theonewithdante</b>. The .zip file is password-protected. The one with Dante was <b>Virgil</b>, which is the passphrase.
+After you enter the answer into the form, you will get a .zip file named [!theonewithdante](./static/theonewithdante.zip). The .zip file is password-protected. The one with Dante was <b>Virgil</b>, which is the passphrase.
 
 <i>Dante cannot descend without Virgil. You cannot progress without him either.</i>
 
-You will now get two files. A PDF named dante.pdf and a JPG named TheOneInTheMouthOfTheLightBringer.jpg
+You will now get two files. A PDF named <u>dante.pdf</u> and a JPG named <u>TheOneInTheMouthOfTheLightBringer.jpg</u>
 
 The PDF has the answer, and the image is a very famous illustration made by <b>Gustave Doré from his illustrations of Dante's Divine Comedy</b>
 <img width="2020" height="1588" alt="image" src="https://github.com/user-attachments/assets/3f60faf7-f839-464d-b2f2-7dc2d95d301f" />
 
-This is an image showing Judas in the mouth of Lucifer (The Light Bringer) in the innermost Pit of the ninth circle of hell <b>Judecca</b>
+This is an image showing Judas in the mouth of Lucifer (The Light Bringer) in the innermost Pit of the ninth circle of hell, <b>Judecca</b>
 
 This image is hiding a .wav file in it (hinted in decoded text "Some problems have the answer hidden inside them"). the passphrase for extraction is <b>judas</b>
 
-Now you will get a .wav file named notriangleisthepassphrase. No triangle actually means the number of Triangles. The .wav file contains Morse code, which, when decoded, gives you the coordinates of a specific place in the Nevada Desert. 
+Now you will get a .wav file named <u>notriangleisthepassphrase</u>. No triangle actually means the number of Triangles. The .wav file contains Morse code, which, when decoded, gives you the coordinates of a specific place in the Nevada Desert. 
 
 37°24'05.2"N 116°52'04.6"W -> this is in the form of 37,24,05.2 NORTH 116,52,04.6 WEST
 
@@ -61,11 +61,11 @@ Now you will get a .wav file named notriangleisthepassphrase. No triangle actual
 
 As you can see, there are six triangles in this image. So, the passphrase is 6, not in words but in numbers.
 
-</i>6 Triangles -> Hexagon = imperfection, fragmentation (stepping further from divine order)</i>
+<i>6 Triangles refrences to this: Hexagon = imperfection, fragmentation (stepping further from divine order)</i>
 
 Now you will extract the final file named Cocytus.txt. 
 
-"your answer lies in va whqrppn gur qrrcrfg cneg bs gur avagu pvepyr bs uryy" 
+<b>"your answer lies in va whqrppn gur qrrcrfg cneg bs gur avagu pvepyr bs uryy" </b>
 
 So here you get the final hint! "va whqrppn gur qrrcrfg cneg bs gur avagu pvepyr bs uryy" is encoded using the ROT13 algorithm. If you convert it, you will get this message:
 
