@@ -30,7 +30,7 @@ How to solve this puzzle?
 
 <details>
 
-<summary>Click to reveal Solution</summary>
+<summary>Click to reveal Solution</summary><br>
 
 First, you will be given the [561.png](./561.png), which is an 8-bit grayscale image. It contains byte-encoded text. When you decode the text, you will see this text.
 
