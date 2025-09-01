@@ -19,7 +19,7 @@ Flask
 
 How to solve this puzzle?
 
-First, you will be given the <a href="[theonewhobetrayedall/561.png](https://github.com/EX0PH1US/theonewhobetrayedall/edit/main/561.png)">561.png</a>, which is an 8-bit grayscale image. It contains byte-encoded text. When you decode the text, you will see this text.
+First, you will be given the [561.png](./561.png), which is an 8-bit grayscale image. It contains byte-encoded text. When you decode the text, you will see this text.
 
 "Problems and Answers. Humans asks problems and humans give answers. 
 Some problems have the answer hidden inside them while other problems require deep research.
