@@ -5,8 +5,12 @@ To test how someone uses a given information and how far they can enumerate some
 
 If you want to try it, download the [561.png](./561.png) and start doing it. Everything below this is me explaining how to solve it. So, maybe try doing it first yourself, and if you are stuck, you can always see the solution below.
 
+<details>
+<summary>Click to reveal the answer</summary>
 The answer to the puzzle is 'judas is placed headfirst inside lucifers
 central mouth, with his back skinned by the devils claws streaker'
+</details>
+
 
 The Flask app is deployed using Render
 
