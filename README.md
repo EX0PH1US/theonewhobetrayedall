@@ -92,9 +92,9 @@ You have to search for the word Judas, and you will see the answer.
 
 So, this is how you solve the puzzle "TheOneWhoBetrayedAll". 
 
-</details>
-
 <i>The title of the landing page of the Flask app is 0011011100001111, which, when separated with a space after 8 characters, reads 7(and an unprintable character), so the answer (to the form) was always there in front of you.</i>
+
+</details>
 
 GGs
 
