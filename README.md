@@ -64,7 +64,7 @@ This is an image showing Judas in the mouth of Lucifer (The Light Bringer) in th
 
 This image is the key to finding the answer. <br>
 
-This image is hiding a .wav file in it (hinted in decoded text "Some problems have the answer hidden inside them"). the passphrase for extraction is <b>judas</b>
+This image is hiding a .wav file in it (hinted in decoded text "Some problems have the answer hidden inside them"). the passphrase for extraction is <b>judas</b> (the one in the mouth of the Lucifer who is also called The Light Bringer)
 
 Now you will get a .wav file named <b>notriangleisthepassphrase</b>. No triangle actually means the number of Triangles. The .wav file contains Morse code, which, when decoded, gives you the coordinates of a specific place in the Nevada Desert. 
 
