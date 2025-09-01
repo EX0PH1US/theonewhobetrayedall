@@ -38,7 +38,7 @@ If you look at the decoded file, I have hinted "add x00".
 To get the answer, you will have to add 00 at the start and then one in the middle to make it an 8-bit binary. 00110111 -> this decodes to <b>seven</b> which is the answer to the form. 
 You will have to convert it into ASCII and not hexadecimal, which corresponds to 37 or the decimal number 55.
 
-</i>7 refrences the seven sins</i>
+<i>7 refrences the seven sins</i>
 
 After you enter the answer into the form, you will get a .zip file named <b>theonewithdante</b>. The .zip file is password-protected. The one with Dante was <b>Virgil</b>, which is the passphrase.
 
