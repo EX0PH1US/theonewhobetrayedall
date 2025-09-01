@@ -62,7 +62,9 @@ You will now get two files. A PDF named <b>dante.pdf</b> and a JPG named <b>TheO
 The PDF has the answer, and the image is a very famous illustration made by <b>Gustave Doré from his illustrations of Dante's Divine Comedy</b>
 <img width="2020" height="1588" alt="image" src="https://github.com/user-attachments/assets/3f60faf7-f839-464d-b2f2-7dc2d95d301f" />
 
-This is an image showing Judas in the mouth of Lucifer (The Light Bringer) in the innermost Pit of the ninth circle of hell, <b>Judecca</b>
+This is an image showing Judas in the mouth of Lucifer (The Light Bringer) in the innermost Pit of the ninth circle of hell, <b>Judecca</b> <br>
+
+This image is the key to finding the answer. <br>
 
 This image is hiding a .wav file in it (hinted in decoded text "Some problems have the answer hidden inside them"). the passphrase for extraction is <b>judas</b>
 
