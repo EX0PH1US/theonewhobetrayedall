@@ -19,7 +19,14 @@ morse code
 ROT13
 Flask
 
+If you don't know how to decode that image, heres a hint or you. The image is "8-bit Grayscale". 
+If you still can't do it or  find a website to do it, you can use [decode.py](./decode.py) to decode the text. 
+
 How to solve this puzzle?
+
+<details>
+
+<summary>Click to reveal Solution</summary>
 
 First, you will be given the [561.png](./561.png), which is an 8-bit grayscale image. It contains byte-encoded text. When you decode the text, you will see this text.
 
@@ -84,6 +91,8 @@ You have to search for the word Judas, and you will see the answer.
 <i>judas is placed headfirst inside lucifers central mouth, with his back skinned by the devils claws streaker</i>
 
 So, this is how you solve the puzzle "TheOneWhoBetrayedAll". 
+
+</details>
 
 <i>The title of the landing page of the Flask app is 0011011100001111, which, when separated with a space after 8 characters, reads 7(and an unprintable character), so the answer (to the form) was always there in front of you.</i>
 
