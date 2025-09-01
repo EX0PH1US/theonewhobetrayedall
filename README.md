@@ -16,7 +16,7 @@ The Flask app is deployed using Render
 
 <a href="https://theonewhobetrayedall.onrender.com/">Flask App</a>
 
-The puzzle has a direct reference from the book Dante's Inferno.
+The puzzle has direct references from the book Dante's Inferno.
 used:
 steganography
 morse code
