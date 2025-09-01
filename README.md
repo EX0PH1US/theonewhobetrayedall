@@ -58,10 +58,8 @@ After you enter the answer into the form, you will get a .zip file named [theone
 <i>Dante cannot descend without Virgil. You cannot progress without him either.</i>
 
 You will now get two files. A PDF named <b>dante.pdf</b> and a JPG named <b>TheOneInTheMouthOfTheLightBringer.jpg</b>
-
 The PDF has the answer, and the image is a very famous illustration made by <b>Gustave Doré from his illustrations of Dante's Divine Comedy</b>
 <img width="2020" height="1588" alt="image" src="https://github.com/user-attachments/assets/3f60faf7-f839-464d-b2f2-7dc2d95d301f" />
-
 This is an image showing Judas in the mouth of Lucifer (The Light Bringer) in the innermost Pit of the ninth circle of hell, <b>Judecca</b> <br>
 
 This image is the key to finding the answer. <br>
@@ -92,7 +90,7 @@ This is a reference to Judecca.
 
 This is the hint you need to finally find the answer hidden in the vast, random words of the PDF dante.pdf. 
 
-You have to search for the word Judas, and you will see the answer.
+You have to search for the word "Judas", and you will see the answer.
 
 <i>judas is placed headfirst inside lucifers central mouth, with his back skinned by the devils claws streaker</i>
 
