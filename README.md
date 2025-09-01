@@ -40,7 +40,7 @@ You will have to convert it into ASCII and not hexadecimal, which corresponds to
 
 <i>7 refrences the seven sins.</i>
 
-After you enter the answer into the form, you will get a .zip file named [!theonewithdante](./static/theonewithdante.zip). The .zip file is password-protected. The one with Dante was <b>Virgil</b>, which is the passphrase.
+After you enter the answer into the form, you will get a .zip file named [theonewithdante](./static/). The .zip file is password-protected. The one with Dante was <b>Virgil</b>, which is the passphrase.
 
 <i>Dante cannot descend without Virgil. You cannot progress without him either.</i>
 
