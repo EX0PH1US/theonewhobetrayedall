@@ -6,6 +6,10 @@ To test how someone uses a given information and how far they can enumerate some
 The answer to the puzzle is 'judas is placed headfirst inside lucifers
 central mouth, with his back skinned by the devils claws streaker'
 
+The flask app is deployed using Render
+
+<a href="https://theonewhobetrayedall.onrender.com/">Website</a>
+
 The puzzle has a direct refrences from the book Dante's Inferno.
 used:
 stegnography
